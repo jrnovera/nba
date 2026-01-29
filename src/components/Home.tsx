@@ -92,13 +92,13 @@ export function Home() {
       id: "3",
       title: "Steph Curry 45-Point Showcase",
       description: "Every bucket from Steph’s flamethrower performance",
-      videoId: "2no0ItPxX2E"
+      videoId: "KgNiXIRYgJ8"
     },
     {
       id: "4",
       title: "Ja Morant Best Dunks Reel",
       description: "Aerial assaults and poster jams all season long",
-      videoId: "r5nYeMfJ_9g"
+      videoId: "vr_WzDwUZVA"
     }
   ];
 
